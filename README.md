@@ -1,12 +1,11 @@
-
-🔭 I’m currently working on LIFAMI's project <br/>
-🌱 I’m currently learning GDScript <br/>
-📫 How to reach me: 齐哈#9815 <br/>
-
 📌 French <br/>
 📌 English <br/>
 
-<img src="https://user-images.githubusercontent.com/124725909/231848782-af4e7997-44be-48c5-ab97-63b99b0d5232.png" width="40" height="40"/> 
+📫 How to reach me: 齐哈#9815 <br/>
+
+<div>
+<img src="https://user-images.githubusercontent.com/124725909/231848782-af4e7997-44be-48c5-ab97-63b99b0d5232.png" width="40" height="40"/>
+<div/>
 
 <!--
 **LanQiha/LanQiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
