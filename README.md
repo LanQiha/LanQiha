@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Languages : French/English
+
+![image](https://user-images.githubusercontent.com/124725909/231848782-af4e7997-44be-48c5-ab97-63b99b0d5232.png)
+
+
 <!--
 **LanQiha/LanQiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
