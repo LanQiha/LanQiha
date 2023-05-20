@@ -1,9 +1,9 @@
 <h1> Yo ! I'm Qiha ! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-<!-- - 🔭 I’m currently working on LIFAMI's project 
+- 🔭 I’m currently working on project_vm
 
-- 🌱 I’m currently learning GDScript -->
+- 🌱 I’m currently learning SDL2
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lan_qiha) 
