@@ -1,7 +1,7 @@
 <h1> Yo ! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-- 🔭 I’m currently working on project_vm and industrial_flight.
+- 🔭 I’m currently working on project_vm.
 - 🌱 I’m currently learning javascript.
 - 📫 How to reach me : lan_qiha on Discord.
 
