@@ -2,7 +2,7 @@
 <p align='center'>
 
 - 🔭 I’m currently working on project_vm.
-- 🌱 I’m currently learning javascript and unity.
+- 🌱 I’m currently learning about unity.
 - 📫 How to reach me : lan_qiha on Discord.
 
 ## 🔧 Skills
