@@ -1,5 +1,4 @@
-<h1> Yo ! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
+<h1> Yo ! </h1>
 
 - 🔭 I’m currently working on project_vm.
 - 🌱 I’m currently learning about unity.
