@@ -1,7 +1,7 @@
 <h1> Yo ! </h1>
 
 - 🔭 I’m currently working on project_vm.
-- 🌱 I’m currently learning about unity.
+- 🌱 I’m currently learning about python.
 - 📫 How to reach me : lan_qiha on Discord. (To see my portfolio, please pm me on discord)
 
 ## 🔧 Skills
